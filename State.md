@@ -1,6 +1,7 @@
 # State.md
 
 - [2026-09-23] Инициализирован и синхронизирован отдельный Git-репозиторий Telegram-парсера | .git, origin/main | github_synced
+- [2026-09-23] Добавлена инструкция Streamlit Cloud и предупреждение о непостоянной SQLite на бесплатном Cloud | DEPLOYMENT.md | pending_user_login
 
 - [2026-09-20] Создан MVP агрегатора ссылок Telegram | app.py, collector.py, parser.py, database.py | done
 - [2026-09-20] Добавлены SQLite-история, дедупликация, стартовые каналы и журнал запусков | data/, logs/ | done
