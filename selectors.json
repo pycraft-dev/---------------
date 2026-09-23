@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "channel_url": "https://t.me/s/{channel}",
+  "link_selector": "a[href]",
+  "excluded_hosts": ["t.me", "telegram.me"]
+}

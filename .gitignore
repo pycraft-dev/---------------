@@ -1,0 +1,7 @@
+.env
+.venv/
+.agents/
+__pycache__/
+*.pyc
+data/*.sqlite3
+logs/*.log
